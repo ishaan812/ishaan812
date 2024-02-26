@@ -1,6 +1,6 @@
 # 💫 About Me:
-🚀 Working with <a href="https://www.niti.ai/">Niti.AI</a> to create a no-code AI Enabled growth platform for banks<br>
-🔭 Building <a href="https://github.com/ishaan812/Github-OpenAPI-Search">Github OpenAPI Search</a> for Google Summer of Code<br>
+🚀 Working at <a href="https://www.niti.ai/">Niti.AI</a> to create a no-code AI Enabled growth platform for banks<br>
+🔭 Built <a href="https://github.com/ishaan812/Github-OpenAPI-Search">Github OpenAPI Search</a> for Google Summer of Code<br>
 👯 I’m looking to collaborate on cool open source projects<br>
 🌱 I’m currently learning to implement AI to make software better!🤖<br>
 ⚡ Always curious to learn about new things
