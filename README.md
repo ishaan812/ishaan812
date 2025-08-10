@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Working at <b><a href="https://www.niti.ai/">Niti.AI</a></b> to create a no-code AI-Enabled experience building platform<br>
+🚀 Working at <b><a href="https://vectorshift.ai/">Vectorshift</a></b> to bring AI automation to the masses<br>
 🔭 Built <a href="https://github.com/ishaan812/Github-OpenAPI-Search">Github OpenAPI Search</a> for <b>Google Summer of Code 2023</b><br>
 👯 I’m looking to collaborate on cool open source projects<br>
 🌐 I'm also learning to work with <b>Web3</b><br>
@@ -24,4 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=ishaan812&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![@ishaan812's Holopin board](https://holopin.me/ishaan812)](https://holopin.io/@ishaan812)
+
 
